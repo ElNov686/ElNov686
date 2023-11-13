@@ -4,13 +4,13 @@
 **detail - oriented Software QA Engineer with 4+ years experience**  
 
 
-- ❤ I'm a passionate about testing, automating, solve testing problems in real world and designing test frameworks
+- ❤ I'm a passionate about testing, automating, solve testing problems in real world and designing test frameworks.
   
 - Contribute to all aspects of the testing process: planning, creating test documentation, and performing testing.
   
-- Take ownership and deliver results for assigned tasks.Built trusted relationships with the Scrum team by catching issues at the early stage
+- Take ownership and deliver results for assigned tasks. Built trusted relationships with the Scrum team by catching issues at the early stage.
   
-- 🌱 I’m currently learning **Swift, XCTest, Appium**
+- 🌱 Constantly learning new tools.
 
 
 
